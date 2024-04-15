@@ -1,5 +1,5 @@
 import tensorflow as tf
-from machine_learning.deep_neural_network.digital_gesture_recognition import  cnn
+from digital_gesture_recognition import cnn
 from PIL import Image, ImageDraw, ImageFont
 import numpy as np
 import scipy.misc

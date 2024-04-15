@@ -1,4 +1,4 @@
-from deep_neural_network.digital_gesture_recognition.load_model import *
+from digital_gesture_recognition.load_model import *
 import tensorflow as tf
 import numpy as np
 
